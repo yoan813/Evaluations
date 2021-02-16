@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 80px;
+  background-color: lightgreen;
+}
+
+.carousel-inner {
+  height: 100%;
+  width: 100%;
+}
+
+.carousel-control-prev {
+  margin-top: 5%;
+  height: 75%;
+  width: 50px;
+}
+
+.carousel-control-next {
+  margin-top: 5%;
+  height: 75%;
+  width: 50px;
+}
