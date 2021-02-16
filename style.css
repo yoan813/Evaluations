@@ -1,4 +1,8 @@
-h1 {
+.container {
+  margin-top: 50px;
+}
+
+h1, h2 {
   text-align: center;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   background-color: lightgreen;
